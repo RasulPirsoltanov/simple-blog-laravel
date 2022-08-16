@@ -11,7 +11,7 @@ use Illuminate\Support\Str;
 class ArticleController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * 
      *
      * @return \Illuminate\Http\Response
      */
